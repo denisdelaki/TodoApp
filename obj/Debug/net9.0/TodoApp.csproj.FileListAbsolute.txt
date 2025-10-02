@@ -1,0 +1,14 @@
+/Users/kipyegondenis/Documents/LearningWithAI/projects/TodoApp/TodoApp/bin/Debug/net9.0/TodoApp
+/Users/kipyegondenis/Documents/LearningWithAI/projects/TodoApp/TodoApp/bin/Debug/net9.0/TodoApp.deps.json
+/Users/kipyegondenis/Documents/LearningWithAI/projects/TodoApp/TodoApp/bin/Debug/net9.0/TodoApp.runtimeconfig.json
+/Users/kipyegondenis/Documents/LearningWithAI/projects/TodoApp/TodoApp/bin/Debug/net9.0/TodoApp.dll
+/Users/kipyegondenis/Documents/LearningWithAI/projects/TodoApp/TodoApp/bin/Debug/net9.0/TodoApp.pdb
+/Users/kipyegondenis/Documents/LearningWithAI/projects/TodoApp/TodoApp/obj/Debug/net9.0/TodoApp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kipyegondenis/Documents/LearningWithAI/projects/TodoApp/TodoApp/obj/Debug/net9.0/TodoApp.AssemblyInfoInputs.cache
+/Users/kipyegondenis/Documents/LearningWithAI/projects/TodoApp/TodoApp/obj/Debug/net9.0/TodoApp.AssemblyInfo.cs
+/Users/kipyegondenis/Documents/LearningWithAI/projects/TodoApp/TodoApp/obj/Debug/net9.0/TodoApp.csproj.CoreCompileInputs.cache
+/Users/kipyegondenis/Documents/LearningWithAI/projects/TodoApp/TodoApp/obj/Debug/net9.0/TodoApp.dll
+/Users/kipyegondenis/Documents/LearningWithAI/projects/TodoApp/TodoApp/obj/Debug/net9.0/refint/TodoApp.dll
+/Users/kipyegondenis/Documents/LearningWithAI/projects/TodoApp/TodoApp/obj/Debug/net9.0/TodoApp.pdb
+/Users/kipyegondenis/Documents/LearningWithAI/projects/TodoApp/TodoApp/obj/Debug/net9.0/TodoApp.genruntimeconfig.cache
+/Users/kipyegondenis/Documents/LearningWithAI/projects/TodoApp/TodoApp/obj/Debug/net9.0/ref/TodoApp.dll
