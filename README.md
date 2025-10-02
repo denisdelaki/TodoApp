@@ -1,6 +1,9 @@
 # Simple Console Todo App
 #loom video
 https://www.loom.com/share/175a9de21d2a4d638a497fe7268d9a18?sid=2db03158-202a-4eb5-aa5b-f0bc23e0f5a9
+
+
+
 A minimalist command-line todo list application built with C# as part of the Moringa AI Capstone Project. This project demonstrates C# fundamentals including collections, control flow, user input handling, and basic CRUD operations - all through an interactive terminal interface.
 
 ## 📋 Table of Contents
