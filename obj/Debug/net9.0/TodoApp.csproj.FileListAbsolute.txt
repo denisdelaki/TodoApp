@@ -12,3 +12,4 @@
 /Users/kipyegondenis/Documents/LearningWithAI/projects/TodoApp/TodoApp/obj/Debug/net9.0/TodoApp.pdb
 /Users/kipyegondenis/Documents/LearningWithAI/projects/TodoApp/TodoApp/obj/Debug/net9.0/TodoApp.genruntimeconfig.cache
 /Users/kipyegondenis/Documents/LearningWithAI/projects/TodoApp/TodoApp/obj/Debug/net9.0/ref/TodoApp.dll
+/Users/kipyegondenis/Documents/LearningWithAI/projects/TodoApp/TodoApp/obj/Debug/net9.0/TodoApp.sourcelink.json
